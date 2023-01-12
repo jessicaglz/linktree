@@ -1,0 +1,35 @@
+{
+    "name": "Jessica Gonzalez",
+    "avatar":"https://www.decouper.mx/logo.png",
+
+    "links": [
+        {
+            "title": "My small business site",
+            "href": "https://www.decouper.mx/",
+            "image": "https://www.decouper.mx/logo.png"
+        },
+        {
+            "title": "Vercel.com",
+            "href": "https://vercel.com/"
+        },
+        {
+            "title": "Nextjs.org",
+            "href": "https://nextjs.org/"
+        }
+    ],
+    "socials":  [
+
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/jessicaglz2"
+        },
+        {
+            "title": "Github",
+            "href": "https://github.com/jessicaglz"
+        },
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/jessicaglz2"
+        }
+    ]
+}
