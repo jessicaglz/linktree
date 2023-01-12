@@ -99,6 +99,7 @@ export default function Home() {
       {data.links.map((link) => (
         <LinkCard key={link.href} {...link} />
       ))}
+      <div className=' flex items-center gap-4 mt-8'>
       {data.socials.map((link) => {
         if (link.href.includes('twitter')) { 
           return            <TwitterIcon />;
@@ -107,6 +108,7 @@ export default function Home() {
         return            <GitHubIcon />;
       }
     })}
+      </div>
       </div>
   );
 }
